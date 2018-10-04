@@ -44,6 +44,7 @@
     module1_loading_grey_001。
 
 * color资源文件使用#AARRGGBB格式，写入`module_colors.xml`文件中，对于用到的每种颜色的命名规约如下：
+
   **模块名\_逻辑名称\_颜色**
 
   如：`<color name="module1_btn_bg_color">#33b5e5e5</color>`
