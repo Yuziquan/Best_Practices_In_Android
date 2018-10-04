@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="请输入："
+                  android:textStyle="bold"
+                  android:textColor="@android:color/holo_orange_light"
+                  android:layout_marginLeft="4dp"
+                  android:layout_marginTop="55dp"/>
+
+
+        <EditText android:layout_width="260dp"
+                  android:layout_height="45dp"
+                  android:id="@+id/et_source_text"
+                  android:layout_marginTop="40dp"
+                  android:layout_marginLeft="65dp"
+                  android:layout_alignParentLeft="true"/>
+
+        <ImageView android:layout_width="40dp"
+                   android:layout_height="40dp"
+                   android:id="@+id/iv_translate"
+                   android:clickable="true"
+                   android:src="@drawable/translate"
+                   android:layout_toRightOf="@id/et_source_text"
+                   android:layout_marginTop="40dp"
+                   android:layout_marginLeft="10dp"/>
+    </RelativeLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:layout_marginTop="100dp"
+                  android:orientation="vertical">
+
+        <TextView android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="【中文】"
+                  android:textColor="#FF0000"
+                  android:textStyle="bold"
+                  android:textSize="16sp"/>
+
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="200dp"
+                  android:id="@+id/tv_translate_result"
+                  android:background="#00FFFF"
+                  android:textColor="#0000FF"
+                  android:padding="10dp"
+                  android:textSize="15sp"
+                  android:layout_marginTop="10dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>
