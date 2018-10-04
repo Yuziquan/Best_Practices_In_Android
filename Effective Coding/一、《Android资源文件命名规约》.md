@@ -15,8 +15,6 @@
 
 * layout资源文件的命名规约：
 
-  <br/>
-
   * Activity的layout：以`module_activity`开头；
   * Fragment的layout：以`module_fragment`开头；
   * Dialog的layout：以`module_dialog`开头；
@@ -34,8 +32,6 @@
 * anim资源文件名称以 “小写单词 + 下划线” 的方式命名，采用的具体规则如下：
 
   **模块名\_逻辑名称_\[方向|序号]**
-
-  <br/>
 
   * Tween动画（使用简单图像变换的动画，例如平移、缩放）资源文件：尽可能以通用的动画名称命名（“模块 + 动画 + 方向”）。如 module1_fade_in、module2_fade_out、module3_push_down_in。
 
