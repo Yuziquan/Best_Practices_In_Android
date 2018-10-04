@@ -3,7 +3,7 @@
 ### 一、Demo简介
 
 > * **功能**：进行英汉文本互译。
-> * **技术**：Retrofit2.0+Gson。
+> * **技术**：Retrofit2.0 + Gson + Butter Knife。
 
 <br/>
 
