@@ -11,4 +11,7 @@
 
 ### 二、运行效果
 
-![1]()
+![1](https://github.com/Yuziquan/Best_Practices_In_Android/blob/master/Typical%20Demos/TinyTranslation/Screenshots/1.png)
+
+
+
