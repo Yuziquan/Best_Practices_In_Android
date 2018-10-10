@@ -11,4 +11,4 @@
 
 ### 二、运行效果
 
-<div align=center><img src="https://github.com/Yuziquan/Best_Practices_In_Android/blob/master/Typical%20Demos/TinyTranslation/Screenshots/1.png" width=250 height=440 />
+<div align=center><img src="https://github.com/Yuziquan/Best_Practices_In_Android/blob/master/Typical%20Demos/TinyTranslation(Retrofit2.0%20%2B%20Gson%E7%9A%84%E4%BD%BF%E7%94%A8%E5%AE%9E%E4%BE%8B)/Screenshots/1.png" width=250 height=440 />
