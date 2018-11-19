@@ -34,3 +34,17 @@
 
 ***
 
+## 二. 利用好AS的代码智能化提示
+
+### 1. 输入 fvb + 回车
+
+=>  `findViewById();`
+
+<br/>
+
+### 2. 输入 logt + 回车
+
+=> `private static final String TAG = "当前类名";`
+
+<br/>
+### 3. 输入
