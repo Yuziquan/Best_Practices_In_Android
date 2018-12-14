@@ -16,7 +16,7 @@
 
 <br/>
 
-### 2. Ctrl + N（快速打开类）
+### 2. Ctrl + N（快速查找类）
 
 有时，我们需要查看某个类的源码实现；或者，在某些类冲突的时候，想要查重，都可以在AS中键入**Ctrl + N**，在弹出的输入框中输入你所要查询的类名，点击查询到的某一列表项就可以跳转到目标类的源码了。如下：
 
@@ -26,7 +26,17 @@
 
 <br/>
 
+### 3. Shift + Shift（快速查找任何东西）
 
+
+
+![1.3](../Screenshots/Personal_Experience/1.3.png)
+
+<br/>
+
+### 4. Ctrl + Shift + N（快速查找文件）
+
+![1.4](../Screenshots/Personal_Experience/1.4.png)
 
 
 
