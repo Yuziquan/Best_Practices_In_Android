@@ -14,32 +14,30 @@
 
    ![1](/Screenshots/1.png)
 
-</div>
+
 
 <br/>
 
 
 <div align=center> 
 
-   ![1](/Screenshots/2.png)
+   ![2](/Screenshots/2.png)
 
-</div>
-
-<br/>
-
-<div align=center> 
-
-   ![1](/Screenshots/3.png)
-
-</div>
 
 <br/>
 
 <div align=center> 
 
-   ![1](/Screenshots/4.png)
+   ![3](/Screenshots/3.png)
 
-</div>
+
+<br/>
+
+<div align=center> 
+
+   ![4](/Screenshots/4.png)
+
+
 
 
 
