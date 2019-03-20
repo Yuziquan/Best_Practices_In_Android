@@ -12,19 +12,19 @@
 
 
 
-<div align=center><img src="/Screenshots/1.png" width=250 height=440 />
+<div align=center><img src="./Screenshots/1.png" width=250 height=440 />
 
 <br/>
 
-<div align=center><img src="/Screenshots/2.png" width=250 height=440 />
+<div align=center><img src="./Screenshots/2.png" width=250 height=440 />
 
 <br/>
 
-<div align=center><img src="/Screenshots/3.png" width=250 height=440 />
+<div align=center><img src="./Screenshots/3.png" width=250 height=440 />
 
 <br/>
 
-<div align=center><img src="/Screenshots/4.png" width=250 height=440 />
+<div align=center><img src="./Screenshots/4.png" width=250 height=440 />
 
 
 
