@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">登录界面</string>
+    <string name="login_interface_title">登录窗口</string>
+    <string name="user_name_title">用户名：</string>
+    <string name="user_name_hint">请输入用户名</string>
+    <string name="password_title">密码：</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="attempts_hint">可尝试的剩余次数：</string>
+    <string name="btn_login_text">登录</string>
+    <string name="login_success_hint">登录成功! 跳转至主界面......</string>
+    <string name="login_fail_hint">登录失败! 请重新输入!</string>
+    <string name="login_disabled">您的尝试次数已达上限!</string>
+    <string name="btn_exit_text">退出</string>
+    <string name="btn_switch_language">语言切换</string>
+    <string name="select_language_title">请选择语言</string>
+    <string name="zh">中文</string>
+    <string name="en">英文</string>
+</resources>
+
