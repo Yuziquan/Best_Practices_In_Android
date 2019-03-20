@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="login_interface_title">Login Screen</string>
+    <string name="user_name_title">User Name:</string>
+    <string name="user_name_hint">Please input user name</string>
+    <string name="password_title">Password:</string>
+    <string name="password_hint">Please input password</string>
+    <string name="attempts_hint">Attempts Left:</string>
+    <string name="btn_login_text">LOGIN</string>
+    <string name="login_success_hint">Successful login!Jump to the main interface...</string>
+    <string name="login_fail_hint">Login failed! Please re-enter!</string>
+    <string name="login_disabled">Your number of attempts has reached the limit!</string>
+    <string name="btn_exit_text">EXIT</string>
+    <string name="btn_switch_language">Language Switch</string>
+    <string name="select_language_title">Please select language</string>
+    <string name="zh">Chinese</string>
+    <string name="en">English</string>
+</resources>
